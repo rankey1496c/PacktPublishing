@@ -1,2 +1,2 @@
-# Hands-On-GPU-Programming-with-Python-and-CUDA-Second-Edition
-Hands-On GPU Programming with Python and CUDA, Second Edition, published by Packt
+# Hands-On-GPU-Programming-with-CUDA-C-and-Python-3.x-Second-Edition
+Hands-On GPU Programming with CUDA C and Python 3.x, Second Edition, published by Packt
